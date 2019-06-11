@@ -1,0 +1,2 @@
+Add check that person is not previously in system when adding new person
+Figure out and fix text
